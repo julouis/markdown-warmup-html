@@ -4,3 +4,7 @@ div {
     text-align: center;
     width: 500px;
     }
+
+figcaption {
+	font-style: italic;
+}
