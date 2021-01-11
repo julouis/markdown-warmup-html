@@ -1,1 +1,1 @@
-https://julouis.github.io/markdown-warmup-html.git
+https://julouis.github.io
